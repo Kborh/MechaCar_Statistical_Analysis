@@ -5,7 +5,7 @@
 <br>
     ![MechaCar](screenshot_2.png)
     
-
+<br>
    .Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
       
       Vehicle weight, AWD, and spoiler_angle provided a non-random amount of variance. 
