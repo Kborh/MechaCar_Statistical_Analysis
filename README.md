@@ -29,7 +29,7 @@
      
     <br> 
     
-     <img src="https://github.com/Kborh/MechaCar_Statistical_Analysis/blob/main/Images/total_summery.png">
+     <img src="https://github.com/Kborh/MechaCar_Statistical_Analysis/blob/main/Images/total_summery.png"/>
      
      <br>
      
