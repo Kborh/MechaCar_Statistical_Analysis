@@ -2,7 +2,9 @@
 
 ## Linear Regression to Predict MPG
 
+
     ![MechaCar](screenshot_2.png)
+    
 
    .Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
       
