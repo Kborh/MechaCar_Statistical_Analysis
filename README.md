@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-
+<br>
     ![MechaCar](screenshot_2.png)
     
 
