@@ -33,7 +33,7 @@
     .Lot 1 and Lot 3 the PSI values are not different from the population mean. However lot 2 the p-value is .
      347 which means there is evidence that the suspension coil is different from the population mean. 
      All t-tests can be seen below:
-        ![](Images/PSI_1png
+        ![](Images/PSI_1.png
 
 
 ## Study Design: MechaCar vs Competition
