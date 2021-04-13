@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 
 <br>
-    ![MechaCar](https://github.com/Kborh/MechaCar_Statistical_Analysis/blob/main/Images/coefficient.png)
+    <img src="https://github.com/Kborh/MechaCar_Statistical_Analysis/blob/main/Images/coefficient.png">
     
 <br>
    .Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -28,7 +28,7 @@
      for all manufacturing lots in total and each lot individually? Why or why not?
      
      
-     
+     ![](Images/total_summary.png)
      
      
      
