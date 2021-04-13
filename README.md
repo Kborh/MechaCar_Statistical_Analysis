@@ -28,7 +28,9 @@
      for all manufacturing lots in total and each lot individually? Why or why not?
      
     <br> 
+    
      <img src="https://github.com/Kborh/MechaCar_Statistical_Analysis/blob/main/Images/total_summery.png">
+     
      <br>
      
      
