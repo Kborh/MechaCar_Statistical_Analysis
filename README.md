@@ -28,7 +28,7 @@
      for all manufacturing lots in total and each lot individually? Why or why not?
      
      
-     ![](Images/total_summary.png)
+     <img src="Images/total_summary.png">
      
      
      
