@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 
 <br>
-    ![MechaCar](screenshot_2.png)
+    <img src="https://github.com/Kborh/MechaCar_Statistical_Analysis/blob/main/Images/coefficient.png">
     
 <br>
    .Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -27,9 +27,11 @@
      must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification 
      for all manufacturing lots in total and each lot individually? Why or why not?
      
-     
-     
-     
+    <br> 
+    <p>
+     <img src="https://github.com/Kborh/MechaCar_Statistical_Analysis/blob/main/Images/total_summery.png"/>
+     </p>
+     <br>
      
      
      
