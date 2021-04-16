@@ -26,20 +26,20 @@
     .The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils 
      must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification 
      for all manufacturing lots in total and each lot individually? Why or why not?
-     
-    <br> 
-    <p>
-     <img src="https://github.com/Kborh/MechaCar_Statistical_Analysis/blob/main/Images/total_summery.png"/>
-     </p>
-     <br>
-     
-     
-     
-     
-     
-     
-     
      Lot1 and Lot2 are both within design specifications and have nearly the same exact mean and median. 
      Lot3 shows the most variance and exceeds the manufacturers specs.
 
+## T-Tests on Suspension Coils
+    .Lot 1 and Lot 3 the PSI values are not different from the population mean. However lot 2 the p-value is .
+     347 which means there is evidence that the suspension coil is different from the population mean. 
+     All t-tests can be seen below:
+        
 
+
+## Study Design: MechaCar vs Competition
+   .One feature that people are interested in when buying a car is how much horsepower the car has. 
+    I think horsepower, mpg and how large the engine is are 3 factors that go into consumer decision making. 
+    We can use our tests to see if our MechaCar is much different from the competiton. We can make a null 
+    hypothesis stating that it is not different from the competition and our Alternative would be the opposite. 
+    To do this we will need to use our t-test after collecting data from different types of competitor vehicles. 
+    Our t-test will be comparing the population of all types of competitor vehicles.
